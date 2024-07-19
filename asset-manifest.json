@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5f20c945.css",
+    "main.js": "/static/js/main.705c090f.js",
+    "static/js/453.7bc7b40f.chunk.js": "/static/js/453.7bc7b40f.chunk.js",
+    "static/media/pexels-technobulka-2909099.jpg": "/static/media/pexels-technobulka-2909099.dacf1c29719ee99c15b3.jpg",
+    "static/media/pexels-paggiarofrancesco-593099.jpg": "/static/media/pexels-paggiarofrancesco-593099.5848d39e956abcf7c8f5.jpg",
+    "static/media/pexels-cottonbro-4820845.jpg": "/static/media/pexels-cottonbro-4820845.da770b4a173a2d960dbc.jpg",
+    "static/media/pexels-maoriginalphotography-1591382.jpg": "/static/media/pexels-maoriginalphotography-1591382.0ea24ff49ffe2c828b23.jpg",
+    "static/media/pexels-zekiokur-22756344.jpg": "/static/media/pexels-zekiokur-22756344.cd7d9cef75d1224bd344.jpg",
+    "static/media/pexels-itfeelslikefilm-774091.jpg": "/static/media/pexels-itfeelslikefilm-774091.a17fe38c648f363397c4.jpg",
+    "static/media/pexels-stefanstefancik-91227.jpg": "/static/media/pexels-stefanstefancik-91227.56243a16914d41a3c2f2.jpg",
+    "static/media/pexels-linkedin-2182970.jpg": "/static/media/pexels-linkedin-2182970.86815dd97372f6325d12.jpg",
+    "static/media/pexels-olly-943084.jpg": "/static/media/pexels-olly-943084.3efa08b49bf6602c077e.jpg",
+    "static/media/pexels-arina-krasnikova-6338799.jpg": "/static/media/pexels-arina-krasnikova-6338799.d6957272ae23ebca3546.jpg",
+    "static/media/pexels-hasanalbari-1132150.jpg": "/static/media/pexels-hasanalbari-1132150.cc74cf13fddbac010596.jpg",
+    "static/media/pexels-pixabay-39671.jpg": "/static/media/pexels-pixabay-39671.04a224d7f15728dd5e5f.jpg",
+    "static/media/pexels-jatin-anand-33853-125779.jpg": "/static/media/pexels-jatin-anand-33853-125779.d07f79621c0dca3f09f6.jpg",
+    "index.html": "/index.html",
+    "main.5f20c945.css.map": "/static/css/main.5f20c945.css.map",
+    "main.705c090f.js.map": "/static/js/main.705c090f.js.map",
+    "453.7bc7b40f.chunk.js.map": "/static/js/453.7bc7b40f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5f20c945.css",
+    "static/js/main.705c090f.js"
+  ]
+}
